@@ -100,13 +100,6 @@ We welcome contributions to the Ice Cream Parlour Website! To get started, pleas
    - The project manager will review your PR. If approved, your changes will be merged.
 
 
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors
-A big thank you to all the contributors! 🎉  
-<a href="https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pulse"> <img align="center" src="https://contrib.rocks/image?max=100&repo=DharshiBalasubramaniyam/ice-cream-parlour-website" /> </a> 
-
----
-
 # 📄 Ending Note
 Thank you for exploring the Ice Cream Parlour Website! We hope you find this project enjoyable and informative. Your feedback, contributions, and suggestions are always welcome!
 
