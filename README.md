@@ -93,29 +93,14 @@ We welcome contributions to the Ice Cream Parlour Website! To get started, pleas
      ```
 
 8. **🔄 Create a Pull Request (PR)**  
-   - Go back to the original repository [here](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website).
+   - Go back to the original repository [here](https://github.com/DNXEMPIRE-1/ice-cream-parlour/edit/master/README.md).
    - Click the *Compare & pull request* button.
    - Provide a brief description of your changes and submit the PR.
 
 9. **🔎 Review Changes**  
    - The project manager will review your PR. If approved, your changes will be merged.
 
----
 
-
-# Contribution Points 
-*🏆 **Contribution Levels:**  
-Tasks are categorized into various levels based on complexity and skills required. Each level provides different points as follows:
-- **🥇 Level 1**: 10 Points  
-- **🥈 Level 2**: 25 Points  
-- **🥉 Level 3**: 45 Points  
-
----
-
-# GSSoC Guidelines 
-All contributors must adhere to the guidelines. Violations can affect your profile. Review the guidelines [here](https://github.com/GSSoC24/Contributor/tree/main/gssoc-guidelines).
-
----
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors
 A big thank you to all the contributors! 🎉  
@@ -128,6 +113,6 @@ Thank you for exploring the Ice Cream Parlour Website! We hope you find this pro
 
 If you have any questions or need assistance, please feel free to reach out through the Issues section of this repository.
 
-# 🌈 Join Us!
+# 🌈 Thank You!
 
 
