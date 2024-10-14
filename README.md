@@ -55,7 +55,7 @@ JavaScript adds interactivity and functionality to the website. This project use
 We welcome contributions to the Ice Cream Parlour Website! To get started, please follow these simple steps:
 
 1. **🍴 Fork the Repository**  
-   - Visit the [repository page](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website).
+   - Visit the [repository page](https://github.com/DNXEMPIRE-1/ice-cream-parlour).
    - Click the *Fork* button (top right) to create a copy of the project in your GitHub account.
 
 2. **💻 Clone Your Fork**  
