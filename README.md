@@ -8,7 +8,6 @@
 - [Technologies Used](#-technologies-used-)
 - [Key Features](#-key-features-)
 - [How to Contribute](#-how-to-contribute-to-this-project-)
-- [Contribution Points](#contribution-points)
 
 ---
 
