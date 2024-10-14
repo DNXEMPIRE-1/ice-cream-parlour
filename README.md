@@ -74,7 +74,7 @@ We welcome contributions to the Ice Cream Parlour Website! To get started, pleas
 
 4. **🛠️ Make Your Changes**  
    - Open the project files in your code editor (e.g., VS Code) and implement your changes.
-   - If you have questions, feel free to contact the project manager, [Dharshi Balsubramaniyam](https://github.com/DharshiBalasubramaniyam).
+   - If you have questions, feel free to contact the project manager, [Dennis Nzioki](https://github.com/DNXEMPIRE-1/).
 
 5. **✅ Test Your Changes**  
    - Test your changes locally by opening the `index.html` file in your web browser to ensure everything functions as expected.
