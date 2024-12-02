@@ -10,7 +10,7 @@ The following is a set of guidelines for contributing to Ice-Cream-Parlour-Websi
 
 This section guides you on how to report bugs.
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/DNX EMPIREalasubramaniyam/ice-cream-parlour-website/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/DNXEMPIRE-1/ice-cream-parlour/issues).
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
   - A descriptive title and a summary.
   - Steps to reproduce the bug.
@@ -57,7 +57,7 @@ Please follow these coding standards:
    Clone the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/your-username/ice-cream-parlour-website.git
+git clone https://github.com/your-username/ice-cream-parlour.git
 ```
 
 Replace your-username with your GitHub username.
