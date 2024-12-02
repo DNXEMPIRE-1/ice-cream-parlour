@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   async function fetchContributors() {
     try {
       const response = await fetch(
-        `https://api.github.com/repos/DharshiBalasubramaniyam/ice-cream-parlour-website/contributors`
+        `https://api.github.com/repos/DNX EMPIREalasubramaniyam/ice-cream-parlour-website/contributors`
       );
       const contributors = await response.json();
 
