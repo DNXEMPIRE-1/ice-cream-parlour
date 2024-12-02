@@ -10,7 +10,7 @@ The following is a set of guidelines for contributing to Ice-Cream-Parlour-Websi
 
 This section guides you on how to report bugs.
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/DNX EMPIREalasubramaniyam/ice-cream-parlour-website/issues).
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
   - A descriptive title and a summary.
   - Steps to reproduce the bug.
@@ -47,59 +47,64 @@ Please follow these coding standards:
 - Write tests for any new functionality.
 - Make sure all tests pass before submitting your pull request.
 
-
 ## Getting Started
 
 1. Fork the Repository
-Go to the repository page.
-Click the Fork button (top right) to create a copy of the project in your GitHub account.
+   Go to the repository page.
+   Click the Fork button (top right) to create a copy of the project in your GitHub account.
 
 2. Clone Your Fork
-Clone the repository to your local machine using the command:
+   Clone the repository to your local machine using the command:
 
 ```bash
 git clone https://github.com/your-username/ice-cream-parlour-website.git
 ```
+
 Replace your-username with your GitHub username.
 
 3. Create a New Branch
-Before making any changes, create a new branch for your work:
+   Before making any changes, create a new branch for your work:
 
 ```bash
 git checkout -b your-branch-name
 ```
+
 Use a descriptive branch name indicating the feature or fix, such as fix-navbar or add-contact-form.
 
 4. Make Your Changes
-Open the project files in your code editor (like VS Code) and make your changes. You can contact the project manager Dharshi Balsubramaniyam for any queries you have.
+   Open the project files in your code editor (like VS Code) and make your changes. You can contact the project manager Dharshi Balsubramaniyam for any queries you have.
 
 5. Test Your Changes
-Make sure your changes work correctly by testing the website locally. Open the index.html file in your browser to see your updates.
+   Make sure your changes work correctly by testing the website locally. Open the index.html file in your browser to see your updates.
 
 6. Commit Your Changes
-Once your changes are ready, commit them with a descriptive message:
+   Once your changes are ready, commit them with a descriptive message:
 
 ```bash
 git add .
 git commit -m "Added feature X or Fixed issue Y"
 ```
+
 7. Push Your Changes
-Push your changes to your forked repository on GitHub:
+   Push your changes to your forked repository on GitHub:
 
 ```bash
 git push origin your-branch-name
 ```
+
 8. Create a Pull Request (PR)
-Go back to the original repository here.
+   Go back to the original repository here.
 
 Click the Compare & pull request button.
 Write a short description of your changes and submit the pull request (PR).
 
 9. Review Changes
-The project manager will review your PR. If approved, your changes will be merged.
+   The project manager will review your PR. If approved, your changes will be merged.
 
 ---
+
 # Issue and PR Rules
+
 When creating issues and pull requests, please follow these rules:
 
 1. Descriptive Titles: Use clear and concise titles that summarize the changes or problems.
@@ -112,6 +117,7 @@ When creating issues and pull requests, please follow these rules:
 8. Be Respectful and Professional: Maintain a respectful tone in discussions and feedback.
 
 ## Community
+
 Feel free to join our community discussions in the Issues and Pull Requests sections of the repository.
 
 Thank you for your contribution!
